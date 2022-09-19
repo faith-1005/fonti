@@ -1,0 +1,35 @@
+.urmom{
+
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 10px 0px 100px #176478;
+
+}
+
+.urlocalfather{
+
+    font-size: 18px;
+    color: #452b50;
+
+}
+
+.urlocalbrother{
+
+    position: fixed;
+    color: #c4b6f5;
+    background: #3f3f3f;
+    width: 100%;
+    bottom: 0;
+    text-align: center;
+    line-height: 3;
+
+}
+
+canvas {
+
+    border: 5px solid #918365;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px #ebeebc;
+    
+}
